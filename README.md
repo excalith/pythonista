@@ -8,8 +8,20 @@ It rolls d20 to help you decide if you have a chance to success on your next wha
 * Inbetween those numbers, gradually increase / decrease the success rate according to the logic above.
 
 ### Thunder.py
-It helps you to calculate the thunder distance from your position. 
+It helps you to calculate the thunder distance from your position.
 * Click start when you see the lightning
 * Hit pause when you hear the thunder
 * Checkout the distance written in meters
 * If required, find shelter.
+
+ ### Morse.py
+ It converts each letter into morse equivalent.
+* Run Morse.py
+* Write your emergency text and submit
+* Find a lightsource to apply the morse code.
+
+### Phonetics.py
+Have you ever stuck in a situation where you have to spell your name using NATO phonetic alphabet? Me neither. BUT if you ever need it, here is the solution.
+* Run Phonetics.py
+* Write your hard-to-spell text and submit
+* Read it aloud to impress people around you.
